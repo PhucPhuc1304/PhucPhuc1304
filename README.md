@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Phuc</h1>
-<h3 align="center">A passionate IT developer from Ho Chi Minh City</h3>
+<h3 align="center">Student at HCM University Of Technology (HUTECH)</h3>
 
 - 🌱 I’m currently learning **Python, C++, C#, ASP.NET..**
 

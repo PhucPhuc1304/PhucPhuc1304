@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **Python, C++, C#, ASP.NET..**
 
-- 📫 How to reach me **ngohoangphuc.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
